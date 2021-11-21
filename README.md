@@ -1,2 +1,2 @@
-# hyde-design-mobile
-Hyde Design Mobile UI
+# brick-design-mobile
+Brick Design Mobile UI
